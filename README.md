@@ -1,1 +1,1 @@
-# This repository contains MATLAB code to reproduce the analysis and main figures of the paper "Integrated Molecular Characterisation of the MAPK Pathways in Human Cancers".
+# This repository contains MATLAB code to reproduce the analysis and main figures of the paper "Integrated molecular characterization of the MAPK pathways in human cancers reveals pharmacologically vulnerable mutations".
